@@ -1,4 +1,5 @@
 // Multiline Strings
+
 let lorem =
   'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n' +
   'Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat \n' +

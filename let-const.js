@@ -1,3 +1,5 @@
+// let y const
+
 {
   // Podemos acceder a var desde cualquier lugar
   var globalVar = 'Global var'

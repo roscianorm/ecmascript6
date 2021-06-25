@@ -1,3 +1,5 @@
+// Elements Destructuring
+
 let person = {
   name: 'miguel',
   age: 22,

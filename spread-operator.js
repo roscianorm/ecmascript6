@@ -1,3 +1,5 @@
+// Spread Operator
+
 let redTeam = ['Rafael', 'Elias', 'Herick']
 let blueTeam = ['Isabel', 'Ruth', 'Lorena']
 

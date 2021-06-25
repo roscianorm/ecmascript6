@@ -1,4 +1,5 @@
 // Default Params
+
 function newFunction(name, age, country) {
   var name = name || 'miguel'
   var age = age || 22
